@@ -12,6 +12,11 @@
   color: #fff;
 }
 
+.ana {
+  background-image: -webkit-linear-gradient(0deg, #691cff 0%, #f51cb0 100%) !important;
+
+}
+
 ::selection {
   background-color: #691cff;
   color: #fff;
